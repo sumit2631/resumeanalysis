@@ -1,0 +1,27 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+*.pyo
+*.egg-info/
+build/
+dist/
+wheels/
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Groq/OpenAI/Secrets
+.env
+
+# uv-related
+uv.lock
+.python-version
+
+# VS Code settings (optional)
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
